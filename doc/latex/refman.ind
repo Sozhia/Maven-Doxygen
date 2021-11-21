@@ -1,0 +1,395 @@
+\begin{theindex}
+
+  \item {addNode}
+    \subitem {top.TOPTW}, \hyperpage{22}
+  \item {addNodeDepot}
+    \subitem {top.TOPTW}, \hyperpage{22}
+  \item {addRoute}
+    \subitem {top.TOPTWSolution}, \hyperpage{32}
+  \item {aleatorySelectionRCL}
+    \subitem {top.TOPTWGRASP}, \hyperpage{28}
+  \item {ALIGNMENT\_LEFT}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{17}
+  \item {ALIGNMENT\_RIGHT}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{17}
+
+  \indexspace
+
+  \item {BellmanFord}
+    \subitem {es.ull.esit.utilities.BellmanFord}, \hyperpage{11}
+
+  \indexspace
+
+  \item {calculateDistanceMatrix}
+    \subitem {top.TOPTW}, \hyperpage{22}
+  \item {comprehensiveEvaluation}
+    \subitem {top.TOPTWGRASP}, \hyperpage{28}
+  \item {computeGreedySolution}
+    \subitem {top.TOPTWGRASP}, \hyperpage{28}
+  \item {create}
+    \subitem {es.ull.esit.utils.Pair$<$ F, S $>$}, \hyperpage{19}
+
+  \indexspace
+
+  \item {DEFAULT\_COLUMN\_WIDTH}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{17}
+
+  \indexspace
+
+  \item {equals}
+    \subitem {es.ull.esit.utils.Pair$<$ F, S $>$}, \hyperpage{19}
+    \subitem {top.TOPTWSolution}, \hyperpage{33}
+  \item {es.ull.esit.utilities}, \hyperpage{9}
+  \item {es.ull.esit.utilities.BellmanFord}, \hyperpage{11}
+    \subitem {BellmanFord}, \hyperpage{11}
+    \subitem {getDistances}, \hyperpage{12}
+    \subitem {getValue}, \hyperpage{12}
+    \subitem {solve}, \hyperpage{12}
+  \item {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{12}
+    \subitem {ALIGNMENT\_LEFT}, \hyperpage{17}
+    \subitem {ALIGNMENT\_RIGHT}, \hyperpage{17}
+    \subitem {DEFAULT\_COLUMN\_WIDTH}, \hyperpage{17}
+    \subitem {getFormat}, \hyperpage{13--15}
+    \subitem {isAcyclic}, \hyperpage{15}
+    \subitem {isDouble}, \hyperpage{15}
+    \subitem {isInteger}, \hyperpage{16}
+    \subitem {multiplyMatrices}, \hyperpage{16}
+    \subitem {printFile}, \hyperpage{16}
+    \subitem {simplifyString}, \hyperpage{16}
+    \subitem {thereIsPath}, \hyperpage{16}
+    \subitem {writeTextToFile}, \hyperpage{16}
+  \item {es.ull.esit.utilities.PowerSet$<$ E $>$}, \hyperpage{20}
+    \subitem {hasNext}, \hyperpage{20}
+    \subitem {iterator}, \hyperpage{20}
+    \subitem {next}, \hyperpage{21}
+    \subitem {PowerSet}, \hyperpage{20}
+    \subitem {remove}, \hyperpage{21}
+  \item {es.ull.esit.utils}, \hyperpage{9}
+  \item {es.ull.esit.utils.Pair$<$ F, S $>$}, \hyperpage{18}
+    \subitem {create}, \hyperpage{19}
+    \subitem {equals}, \hyperpage{19}
+    \subitem {first}, \hyperpage{19}
+    \subitem {hashCode}, \hyperpage{19}
+    \subitem {Pair}, \hyperpage{18}
+    \subitem {second}, \hyperpage{19}
+  \item {evaluate}
+    \subitem {top.TOPTWEvaluator}, \hyperpage{27}
+  \item {evaluateFitness}
+    \subitem {top.TOPTWSolution}, \hyperpage{33}
+
+  \indexspace
+
+  \item {first}
+    \subitem {es.ull.esit.utils.Pair$<$ F, S $>$}, \hyperpage{19}
+  \item {fuzzySelectionAlphaCutRCL}
+    \subitem {top.TOPTWGRASP}, \hyperpage{28}
+  \item {fuzzySelectionBestFDRCL}
+    \subitem {top.TOPTWGRASP}, \hyperpage{28}
+
+  \indexspace
+
+  \item {getAvailableVehicles}
+    \subitem {top.TOPTWSolution}, \hyperpage{33}
+  \item {getCreatedRoutes}
+    \subitem {top.TOPTWSolution}, \hyperpage{33}
+  \item {getDistance}
+    \subitem {top.TOPTW}, \hyperpage{22, 23}
+    \subitem {top.TOPTWSolution}, \hyperpage{33}
+  \item {getDistances}
+    \subitem {es.ull.esit.utilities.BellmanFord}, \hyperpage{12}
+  \item {getDueTime}
+    \subitem {top.TOPTW}, \hyperpage{23}
+  \item {getFormat}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, 
+		\hyperpage{13--15}
+  \item {getId}
+    \subitem {top.TOPTWRoute}, \hyperpage{31}
+  \item {getIndexRoute}
+    \subitem {top.TOPTWSolution}, \hyperpage{33}
+  \item {getInfoSolution}
+    \subitem {top.TOPTWSolution}, \hyperpage{33}
+  \item {getMaxRoutes}
+    \subitem {top.TOPTW}, \hyperpage{23}
+  \item {getMaxScore}
+    \subitem {top.TOPTWGRASP}, \hyperpage{29}
+  \item {getMaxTimePerRoute}
+    \subitem {top.TOPTW}, \hyperpage{23}
+  \item {getNodes}
+    \subitem {top.TOPTW}, \hyperpage{23}
+  \item {getObjectiveFunctionValue}
+    \subitem {top.TOPTWSolution}, \hyperpage{34}
+  \item {getPOIs}
+    \subitem {top.TOPTW}, \hyperpage{23}
+  \item {getPositionInRoute}
+    \subitem {top.TOPTWSolution}, \hyperpage{34}
+  \item {getPredeccesor}
+    \subitem {top.TOPTWRoute}, \hyperpage{31}
+  \item {getPredecessor}
+    \subitem {top.TOPTWSolution}, \hyperpage{34}
+  \item {getPredecessors}
+    \subitem {top.TOPTWSolution}, \hyperpage{34}
+  \item {getProblem}
+    \subitem {top.TOPTWSolution}, \hyperpage{34}
+  \item {getReadyTime}
+    \subitem {top.TOPTW}, \hyperpage{23}
+  \item {getScore}
+    \subitem {top.TOPTW}, \hyperpage{24}
+  \item {getServiceTime}
+    \subitem {top.TOPTW}, \hyperpage{24}
+  \item {getSolution}
+    \subitem {top.TOPTWGRASP}, \hyperpage{29}
+  \item {getSolutionTime}
+    \subitem {top.TOPTWGRASP}, \hyperpage{29}
+  \item {getSuccesor}
+    \subitem {top.TOPTWRoute}, \hyperpage{31}
+  \item {getSuccessor}
+    \subitem {top.TOPTWSolution}, \hyperpage{34}
+  \item {getSuccessors}
+    \subitem {top.TOPTWSolution}, \hyperpage{34}
+  \item {getTime}
+    \subitem {top.TOPTW}, \hyperpage{24}
+  \item {getValue}
+    \subitem {es.ull.esit.utilities.BellmanFord}, \hyperpage{12}
+  \item {getVehicles}
+    \subitem {top.TOPTW}, \hyperpage{24}
+  \item {getWaitingTime}
+    \subitem {top.TOPTWSolution}, \hyperpage{35}
+  \item {getX}
+    \subitem {top.TOPTW}, \hyperpage{24}
+  \item {getY}
+    \subitem {top.TOPTW}, \hyperpage{24}
+  \item {GRASP}
+    \subitem {top.TOPTWGRASP}, \hyperpage{29}
+
+  \indexspace
+
+  \item {hashCode}
+    \subitem {es.ull.esit.utils.Pair$<$ F, S $>$}, \hyperpage{19}
+  \item {hasNext}
+    \subitem {es.ull.esit.utilities.PowerSet$<$ E $>$}, \hyperpage{20}
+
+  \indexspace
+
+  \item {initSolution}
+    \subitem {top.TOPTWSolution}, \hyperpage{35}
+  \item {isAcyclic}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{15}
+  \item {isDepot}
+    \subitem {top.TOPTW}, \hyperpage{25}
+    \subitem {top.TOPTWSolution}, \hyperpage{35}
+  \item {isDouble}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{15}
+  \item {isInteger}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{16}
+  \item {iterator}
+    \subitem {es.ull.esit.utilities.PowerSet$<$ E $>$}, \hyperpage{20}
+
+  \indexspace
+
+  \item {main}
+    \subitem {top.mainTOPTW}, \hyperpage{17}
+  \item {multiplyMatrices}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{16}
+
+  \indexspace
+
+  \item {next}
+    \subitem {es.ull.esit.utilities.PowerSet$<$ E $>$}, \hyperpage{21}
+  \item {NO\_EVALUATED}
+    \subitem {top.TOPTWEvaluator}, \hyperpage{27}
+    \subitem {top.TOPTWGRASP}, \hyperpage{30}
+  \item {NO\_INITIALIZED}
+    \subitem {top.TOPTWSolution}, \hyperpage{36}
+
+  \indexspace
+
+  \item {Pair}
+    \subitem {es.ull.esit.utils.Pair$<$ F, S $>$}, \hyperpage{18}
+  \item {PowerSet}
+    \subitem {es.ull.esit.utilities.PowerSet$<$ E $>$}, \hyperpage{20}
+  \item {printFile}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{16}
+  \item {printSolution}
+    \subitem {top.TOPTWSolution}, \hyperpage{35}
+
+  \indexspace
+
+  \item {readProblem}
+    \subitem {top.TOPTWReader}, \hyperpage{30}
+  \item {remove}
+    \subitem {es.ull.esit.utilities.PowerSet$<$ E $>$}, \hyperpage{21}
+
+  \indexspace
+
+  \item {second}
+    \subitem {es.ull.esit.utils.Pair$<$ F, S $>$}, \hyperpage{19}
+  \item {setAvailableVehicles}
+    \subitem {top.TOPTWSolution}, \hyperpage{35}
+  \item {setDueTime}
+    \subitem {top.TOPTW}, \hyperpage{25}
+  \item {setId}
+    \subitem {top.TOPTWRoute}, \hyperpage{31}
+  \item {setMaxRoutes}
+    \subitem {top.TOPTW}, \hyperpage{25}
+  \item {setMaxTimePerRoute}
+    \subitem {top.TOPTW}, \hyperpage{25}
+  \item {setNodes}
+    \subitem {top.TOPTW}, \hyperpage{25}
+  \item {setObjectiveFunctionValue}
+    \subitem {top.TOPTWSolution}, \hyperpage{35}
+  \item {setPositionInRoute}
+    \subitem {top.TOPTWSolution}, \hyperpage{35}
+  \item {setPredeccesor}
+    \subitem {top.TOPTWRoute}, \hyperpage{31}
+  \item {setPredecessor}
+    \subitem {top.TOPTWSolution}, \hyperpage{36}
+  \item {setReadyTime}
+    \subitem {top.TOPTW}, \hyperpage{25}
+  \item {setScore}
+    \subitem {top.TOPTW}, \hyperpage{25}
+  \item {setServiceTime}
+    \subitem {top.TOPTW}, \hyperpage{26}
+  \item {setSolution}
+    \subitem {top.TOPTWGRASP}, \hyperpage{29}
+  \item {setSolutionTime}
+    \subitem {top.TOPTWGRASP}, \hyperpage{29}
+  \item {setSuccesor}
+    \subitem {top.TOPTWRoute}, \hyperpage{31}
+  \item {setSuccessor}
+    \subitem {top.TOPTWSolution}, \hyperpage{36}
+  \item {setWaitingTime}
+    \subitem {top.TOPTWSolution}, \hyperpage{36}
+  \item {setX}
+    \subitem {top.TOPTW}, \hyperpage{26}
+  \item {setY}
+    \subitem {top.TOPTW}, \hyperpage{26}
+  \item {simplifyString}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{16}
+  \item {solve}
+    \subitem {es.ull.esit.utilities.BellmanFord}, \hyperpage{12}
+  \item {src/main/java/es/ull/esit/utilities/BellmanFord.java}, 
+		\hyperpage{37}
+  \item {src/main/java/es/ull/esit/utilities/ExpositoUtilities.java}, 
+		\hyperpage{37}
+  \item {src/main/java/es/ull/esit/utilities/PowerSet.java}, 
+		\hyperpage{37}
+  \item {src/main/java/es/ull/esit/utils/Pair.java}, \hyperpage{38}
+  \item {src/main/java/top/mainTOPTW.java}, \hyperpage{38}
+  \item {src/main/java/top/TOPTW.java}, \hyperpage{38}
+  \item {src/main/java/top/TOPTWEvaluator.java}, \hyperpage{38}
+  \item {src/main/java/top/TOPTWGRASP.java}, \hyperpage{39}
+  \item {src/main/java/top/TOPTWReader.java}, \hyperpage{39}
+  \item {src/main/java/top/TOPTWRoute.java}, \hyperpage{39}
+  \item {src/main/java/top/TOPTWSolution.java}, \hyperpage{39}
+
+  \indexspace
+
+  \item {thereIsPath}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{16}
+  \item {top}, \hyperpage{9}
+  \item {top.mainTOPTW}, \hyperpage{17}
+    \subitem {main}, \hyperpage{17}
+  \item {top.TOPTW}, \hyperpage{21}
+    \subitem {addNode}, \hyperpage{22}
+    \subitem {addNodeDepot}, \hyperpage{22}
+    \subitem {calculateDistanceMatrix}, \hyperpage{22}
+    \subitem {getDistance}, \hyperpage{22, 23}
+    \subitem {getDueTime}, \hyperpage{23}
+    \subitem {getMaxRoutes}, \hyperpage{23}
+    \subitem {getMaxTimePerRoute}, \hyperpage{23}
+    \subitem {getNodes}, \hyperpage{23}
+    \subitem {getPOIs}, \hyperpage{23}
+    \subitem {getReadyTime}, \hyperpage{23}
+    \subitem {getScore}, \hyperpage{24}
+    \subitem {getServiceTime}, \hyperpage{24}
+    \subitem {getTime}, \hyperpage{24}
+    \subitem {getVehicles}, \hyperpage{24}
+    \subitem {getX}, \hyperpage{24}
+    \subitem {getY}, \hyperpage{24}
+    \subitem {isDepot}, \hyperpage{25}
+    \subitem {setDueTime}, \hyperpage{25}
+    \subitem {setMaxRoutes}, \hyperpage{25}
+    \subitem {setMaxTimePerRoute}, \hyperpage{25}
+    \subitem {setNodes}, \hyperpage{25}
+    \subitem {setReadyTime}, \hyperpage{25}
+    \subitem {setScore}, \hyperpage{25}
+    \subitem {setServiceTime}, \hyperpage{26}
+    \subitem {setX}, \hyperpage{26}
+    \subitem {setY}, \hyperpage{26}
+    \subitem {TOPTW}, \hyperpage{22}
+    \subitem {toString}, \hyperpage{26}
+  \item {top.TOPTWEvaluator}, \hyperpage{26}
+    \subitem {evaluate}, \hyperpage{27}
+    \subitem {NO\_EVALUATED}, \hyperpage{27}
+  \item {top.TOPTWGRASP}, \hyperpage{27}
+    \subitem {aleatorySelectionRCL}, \hyperpage{28}
+    \subitem {comprehensiveEvaluation}, \hyperpage{28}
+    \subitem {computeGreedySolution}, \hyperpage{28}
+    \subitem {fuzzySelectionAlphaCutRCL}, \hyperpage{28}
+    \subitem {fuzzySelectionBestFDRCL}, \hyperpage{28}
+    \subitem {getMaxScore}, \hyperpage{29}
+    \subitem {getSolution}, \hyperpage{29}
+    \subitem {getSolutionTime}, \hyperpage{29}
+    \subitem {GRASP}, \hyperpage{29}
+    \subitem {NO\_EVALUATED}, \hyperpage{30}
+    \subitem {setSolution}, \hyperpage{29}
+    \subitem {setSolutionTime}, \hyperpage{29}
+    \subitem {TOPTWGRASP}, \hyperpage{28}
+    \subitem {updateSolution}, \hyperpage{29}
+  \item {top.TOPTWReader}, \hyperpage{30}
+    \subitem {readProblem}, \hyperpage{30}
+  \item {top.TOPTWRoute}, \hyperpage{30}
+    \subitem {getId}, \hyperpage{31}
+    \subitem {getPredeccesor}, \hyperpage{31}
+    \subitem {getSuccesor}, \hyperpage{31}
+    \subitem {setId}, \hyperpage{31}
+    \subitem {setPredeccesor}, \hyperpage{31}
+    \subitem {setSuccesor}, \hyperpage{31}
+  \item {top.TOPTWSolution}, \hyperpage{32}
+    \subitem {addRoute}, \hyperpage{32}
+    \subitem {equals}, \hyperpage{33}
+    \subitem {evaluateFitness}, \hyperpage{33}
+    \subitem {getAvailableVehicles}, \hyperpage{33}
+    \subitem {getCreatedRoutes}, \hyperpage{33}
+    \subitem {getDistance}, \hyperpage{33}
+    \subitem {getIndexRoute}, \hyperpage{33}
+    \subitem {getInfoSolution}, \hyperpage{33}
+    \subitem {getObjectiveFunctionValue}, \hyperpage{34}
+    \subitem {getPositionInRoute}, \hyperpage{34}
+    \subitem {getPredecessor}, \hyperpage{34}
+    \subitem {getPredecessors}, \hyperpage{34}
+    \subitem {getProblem}, \hyperpage{34}
+    \subitem {getSuccessor}, \hyperpage{34}
+    \subitem {getSuccessors}, \hyperpage{34}
+    \subitem {getWaitingTime}, \hyperpage{35}
+    \subitem {initSolution}, \hyperpage{35}
+    \subitem {isDepot}, \hyperpage{35}
+    \subitem {NO\_INITIALIZED}, \hyperpage{36}
+    \subitem {printSolution}, \hyperpage{35}
+    \subitem {setAvailableVehicles}, \hyperpage{35}
+    \subitem {setObjectiveFunctionValue}, \hyperpage{35}
+    \subitem {setPositionInRoute}, \hyperpage{35}
+    \subitem {setPredecessor}, \hyperpage{36}
+    \subitem {setSuccessor}, \hyperpage{36}
+    \subitem {setWaitingTime}, \hyperpage{36}
+    \subitem {TOPTWSolution}, \hyperpage{32}
+  \item {TOPTW}
+    \subitem {top.TOPTW}, \hyperpage{22}
+  \item {TOPTWGRASP}
+    \subitem {top.TOPTWGRASP}, \hyperpage{28}
+  \item {TOPTWSolution}
+    \subitem {top.TOPTWSolution}, \hyperpage{32}
+  \item {toString}
+    \subitem {top.TOPTW}, \hyperpage{26}
+
+  \indexspace
+
+  \item {updateSolution}
+    \subitem {top.TOPTWGRASP}, \hyperpage{29}
+
+  \indexspace
+
+  \item {writeTextToFile}
+    \subitem {es.ull.esit.utilities.ExpositoUtilities}, \hyperpage{16}
+
+\end{theindex}

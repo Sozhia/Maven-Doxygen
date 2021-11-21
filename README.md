@@ -60,10 +60,11 @@ Acceder a `localhost:9000` y crear un proyecto manual con el asistente:
 ![Img 03 Sonar](./img/wizar-03.png)
 El token generado es `7ba3dd2583bbbe720c43e29d9f1e52de326f3fca`.
 
+![Img 04 Sonar](./img/wizar-04.png)
+
+
 # Bibliografía
 
 [Instalación de Maven](https://dev.to/vanessa_corredor/instalar-manualmente-maven-en-windows-10-50pb) <br>
 [Configuración de Maven](http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/322)
-[]()
-[]()
-[]()
+
