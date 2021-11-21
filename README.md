@@ -25,7 +25,17 @@ El proyecto descargado ha de ser integrado en nuestro IDE, para ello, y para evi
 
 Como se puede apreciar, el `pom.xml` no es el final, sino el básico deseado para modificar.
 
+## 2.-Volcado del proyecto
 
+Volcamos el contenido descargado en la carpeta del proyecto creada por Eclipse.
+
+![Volcado del proyecto](./img/volcado-proyecto.png)
+
+## 3.- Dependencias
+
+Cuando se intenta compilar, empaquetar o instalar un proyecto, `maven` buscará las dependencias que se le ha indicado. Primeramente en el repositorio local y si no los encuentra buscará en los repositorios que tiene por defecto configurados vía Internet: [Repositorio Maven](http://repo1.maven.org/maven2).
+También se puede añadir una etiqueta en el `pom.xml` para indicarle otros repositorios en los que buscar. Todo lo que encuentre en los repositorios remotos maven se lo descargara y quedará cacheado en el repositorio local para hacer más
+rápidos próximos accesos a esas dependencias. Así que se irá añadiendo un elemento  <dependency> dentro  del <dependencies> para cada biblioteca del proyecto. En principio si ya se han definido todas las dependencia se podría compilar el proyecto con un sencillo `mvn compile`.
 # Bibliografía
 
 [Instalación de Maven](https://dev.to/vanessa_corredor/instalar-manualmente-maven-en-windows-10-50pb)
