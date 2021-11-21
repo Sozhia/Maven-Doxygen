@@ -45,8 +45,20 @@ Un proyecto se empaqueta mediante el comando `mvn package` lo que crea un archiv
 
 ![Empaquedado](./img/maven-package.png)
 
+## 5.- Maven y Sonar
 
+Se debe ejecutar primeramente el procesor `SonarQube`.
 
+![SonarQube](./img/sonar-start.png)
+
+Acceder a `localhost:9000` y crear un proyecto manual con el asistente:
+
+![Img 01 Sonar](./img/wizar-01.png)
+
+![Img 02 Sonar](./img/wizar-02.png)
+
+![Img 03 Sonar](./img/wizar-03.png)
+El token generado es `7ba3dd2583bbbe720c43e29d9f1e52de326f3fca`.
 
 # Bibliografía
 
